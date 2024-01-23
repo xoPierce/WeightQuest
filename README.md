@@ -1,7 +1,7 @@
-# CS-360-Portfolio-Submission
+# WeightQuest
 
-## Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-The purpose of this app is to provide a tool that allows users to track their weight and set weight goals to hopefully improve their overall health and wellbeing. Some of the features that need to be included to achieve this goal include weight tracking, goal setting, goal notifications, and data visualization. The main components that need to be implemented within this app include:
+## Summary of the requirements and goals of the WeightQuest app. 
+This app was created for the final project in the class CS360 - Mobile Architecture and Programming. The purpose of this app is to provide a tool that allows users to track their weight and set weight goals to hopefully improve their overall health and wellbeing. Some of the features that need to be included to achieve this goal include weight tracking, goal setting, goal notifications, and data visualization. The main components that need to be implemented within this app include:
 -	Login screen that allows the user to login or create an account.
 -	Screen with a table to view all the daily weights and goal weight.
 -	Function to add a daily weight or a goal weight.
@@ -10,9 +10,7 @@ The purpose of this app is to provide a tool that allows users to track their we
 ## What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 My app encompasses several screens, each tailored to fulfill various user needs and objectives. These screens comprise the login interface, account creation page, primary weight overview display, weight entry addition panel, and the goal setting screen. When conceptualizing the user interface (UI), my aim was to strike a balance between simplicity and an elegant, polished appearance.
 
-Throughout the UI design process, I prioritized the user experience, envisioning the devices they are likely to use, selecting suitable color palettes, and optimizing the screen-to-screen navigation. This user-centric approach was fundamental in crafting an interface that seamlessly accommodates user interactions.
-
-As a result of these considerations, I am confident that my UI design achieved success by fostering effortless navigation, embracing minimalism, and exuding an overall sophisticated and streamlined ambiance, which collectively enhance the user engagement and satisfaction within my app.
+Throughout the UI design process, I prioritized the user experience, envisioning the devices they are likely to use, selecting suitable color palettes, and optimizing the screen-to-screen navigation. This user-centric approach was fundamental in crafting an interface that seamlessly accommodates user interactions. As a result of these considerations, I am confident that my UI design achieved success by fostering effortless navigation, embracing minimalism, and exuding an overall sophisticated and streamlined ambiance, which collectively enhance the user engagement and satisfaction within my app.
 
 ## How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
 In approaching the coding process of my weight tracking app, I followed a structured and iterative approach. I began by breaking down the app's functionality into smaller modules and components. This allowed me to focus on developing individual features and ensuring their smooth integration into the overall app. Moreover, I embraced the concept of modular programming. By creating reusable and well-encapsulated code modules, I could enhance code maintainability and promote efficient development. This technique can be valuable in future projects to streamline development and minimize the risk of bugs.
